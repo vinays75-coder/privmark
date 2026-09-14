@@ -1,0 +1,20 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "PrivMark: dashboard",
+			"type": "shell",
+			"command": "${workspaceFolder}/.venv/bin/python",
+			"args": [
+				"-m",
+				"streamlit",
+				"run",
+				"dashboard.py",
+				"--server.headless",
+				"true"
+			],
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
