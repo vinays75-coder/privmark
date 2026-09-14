@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Microsoft Corporation.
 # SPDX-License-Identifier: MIT
 """Offline regression tests for PrivMark's protocol, evidence, backend, and UI.
 

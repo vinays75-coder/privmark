@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Microsoft Corporation.
 # SPDX-License-Identifier: MIT
 """PrivMark estimators and synthetic-secret matching, independent of model runtimes.
 

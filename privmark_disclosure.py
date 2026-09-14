@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Microsoft Corporation.
 # SPDX-License-Identifier: MIT
 """Map scoped observations to disclosure dimensions without inventing assurances."""
 

@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Microsoft Corporation.
 # SPDX-License-Identifier: MIT
 """Seeded fictitious records and a versioned, narrowly scoped prompt protocol."""
 

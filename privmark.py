@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Microsoft Corporation.
 # SPDX-License-Identifier: MIT
 """Run the PrivMark exploratory local-LLM protocol and save auditable artifacts.
 

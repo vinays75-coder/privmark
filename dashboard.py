@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Microsoft Corporation.
 # SPDX-License-Identifier: MIT
 """Read-only PrivMark evidence dashboard for schema 1.0 artifacts.
 
